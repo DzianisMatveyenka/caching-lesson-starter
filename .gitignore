@@ -1,0 +1,5 @@
+.idea
+hibernate-minimal-configuration.iml
+log4j.log
+target/
+*.iml
